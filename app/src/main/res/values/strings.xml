@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lifecyclertest</string>
+    <string name="save">Save</string>
+    <string name="save_ld_1">save ld 1</string>
+    <string name="save_ld_2">save ld 2</string>
+</resources>
